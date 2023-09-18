@@ -1,4 +1,5 @@
 def str_func(value):
+    """функция, которая делает заглавными ВСЕ буквы каждого слова в строке"""
     return str(value).upper()
 
 # print(str_func('cvv'))
